@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Wesley</h1>
-<h3 align="center">Um desenvolvedor Back-end apaixonado do Brasil</h3>
+<h3 align="center">Um desenvolvedor Back-end do Brasil</h3>
 
 - 🌱 Atualmente estou aprendendo **NextJs, Estruturas de dados, Prisma**
 
